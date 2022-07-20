@@ -18,6 +18,7 @@ body{
 }
 .top-bannar{
     background-image: url(images/br2.jpg);
+    box-shadow: 5px 5px 30px gray;
 }
 section{
     height: 500px;
@@ -33,4 +34,40 @@ section{
     border-radius: 7px;
     color: white;
     font-weight: 700;
+    box-shadow: 3px 3px 10px gray;
+}
+.dream-area{
+    background-image: url(images/bgd1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 5%;
+   
+}
+.dream-area2{
+    margin-top: 5%;
+}
+.single-block{
+    box-shadow: 12px 13px 40px gray;
+    border-radius: 6px;
+    height: 65%;
+    margin-left: 2.5%;
+}
+.dream-area2{
+    background-image: url(images/side.png);
+    background-repeat: no-repeat;
+}
+#unic-color{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, #e22b89, lightsalmon);
+    border-image-slice: 1;
+}
+#unic-color2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    
+}
+.shadow{
+    box-shadow: 10px 10px 50px gray;
+    border-radius: 350px;
 }
