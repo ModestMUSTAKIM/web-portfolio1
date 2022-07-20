@@ -54,7 +54,7 @@ section{
 }
 .dream-area2{
     background-image: url(images/side.png);
-    background-repeat: no-repeat;
+    background-repeat:no-repeat ;
 }
 #unic-color{
     border-left: 7px solid;
@@ -71,3 +71,56 @@ section{
     box-shadow: 10px 10px 50px gray;
     border-radius: 350px;
 }
+.text-center{
+    text-decoration: none;
+    text-align: center;
+    color: blueviolet;
+    
+}
+.work-place{
+    margin-top: 10px;
+}
+.latest-work{
+    width: 28%;
+    float: left;
+    margin-left: 41px;
+}
+.latest-work img{
+    width: 93%;
+}
+.border-style{
+    box-shadow: 2px 2px 15px blueviolet;
+    border-radius: 3px;
+    width: 100%;
+}
+
+
+.latest-work2{
+    width: 28%;
+    float: left;
+    margin-left: 41px;
+}
+.latest-work2 img{
+    width: 93%;
+}
+.border-style2{
+    box-shadow: 2px 2px 15px rgb(11, 228, 228);
+    border-radius: 3px;
+    width: 100%;
+    
+}
+.work-place2{
+    margin-top: 2px;
+}
+.footer-last{
+    margin-top: 35%;
+    background-color: turquoise;
+    border-radius: 45px;
+    box-shadow: 10px 10px 40px gray;
+    height: 50%;
+}
+footer{
+    text-align: center;
+    margin-bottom: 5%;
+}
+  
